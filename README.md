@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I’m a Computer Engineering Senior at Ainshams universitu with hands-on experience across:
+I’m a Computer Engineering Senior at Ainshams university with hands-on experience across:
 - AI/ML systems
 - Computer Vision
 - NLP and LLM engineering
